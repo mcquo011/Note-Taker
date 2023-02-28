@@ -48,9 +48,9 @@ To delete an existing note, click on the title of the note to view it, then clic
 
   ## Screenshots  
 
-  ![Alt text](./Develop/images/Screen%20Shot%202023-02-28%20at%201.19.57%20PM.png?raw=true "screenshot of welcome page")
+  ![Alt text](./Develop/images/Screen%20Shot%202023-02-28%20at%201.45.02%20PM.png?raw=true "screenshot of welcome page")
 
-  ![Alt text](./Develop/images/Screen%20Shot%202023-02-28%20at%201.21.20%20PM.png?raw=true "screenshot of notes")
+  ![Alt text](./Develop/images/Screen%20Shot%202023-02-28%20at%201.49.19%20PM.png?raw=true "screenshot of notes")
 
   ## Contributers 
 
