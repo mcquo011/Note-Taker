@@ -18,7 +18,7 @@
 
  Building this application gave me experience using the Express framework. This was my first time deploying an application to Heroku. 
 
- ## Build With
+ ## Built With
 
  * Node.js 
  * Express.js 
