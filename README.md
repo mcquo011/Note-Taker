@@ -12,7 +12,8 @@
   * [Questions](#questions)
 
   ## Description 
-
+ 
+ This is a simple note-taking application that allows users to create, read, update, and delete notes. The application uses Node.js and the Express web framework to handle HTTP requests and serve HTML and JSON responses.
 
   ## Dependencies  
 
@@ -20,14 +21,23 @@
 
   ## Usage 
 
+The application has two main pages:
 
+The homepage (/) displays a welcome message and a link to the notes page.
+The notes page (/notes) displays a list of all notes and allows users to create, read, update, and delete notes.
+To create a new note, click the "New Note" button and enter a title and text for the note. Click the "Save" button to save the note.
+
+To view an existing note, click on the title of the note in the list of notes.
+
+To update an existing note, click on the title of the note to view it. Update the title and/or text of the note, then click the "Save" button to save the changes.
+
+To delete an existing note, click on the title of the note to view it, then click the "Delete" button. 
+
+  ## Screenshots  
 
   ## Contributers 
 
   Maggie McQuown
-
-  ## Tests 
-
 
   ## License 
   
