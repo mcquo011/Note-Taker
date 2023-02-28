@@ -7,7 +7,6 @@
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
-  * [Test](#tests)
   * [License](#license)
   * [Questions](#questions)
 
