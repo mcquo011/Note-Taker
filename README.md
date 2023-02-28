@@ -18,6 +18,16 @@
 
  Building this application gave me experience using the Express framework. This was my first time deploying an application to Heroku. 
 
+ ## Build With
+
+ * Node.js 
+ * Express.js 
+ * Inquirer 
+ * uuid
+ * JavaScript
+ * Bootstrap
+ * HTML
+
   ## Dependencies  
 
   Run npm i inquirer@8.2.4 and npm i uuid to install the dependencies.
