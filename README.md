@@ -16,7 +16,9 @@
  
  This is a simple note-taking application that allows users to create, read, and delete notes. The application uses Node.js and the Express web framework to handle HTTP requests and serve HTML and JSON responses. 
 
- Building this application gave me experience using the Express framework. This was my first time deploying an application to Heroku. 
+Building this application gave me valuable experience working with servers and handling GET and POST requests. I learned how to use the Express framework to create a web server, handle routing and middleware, and serve static files. I also gained experience working with JSON data, reading and writing files, and generating unique IDs for new notes.
+
+Deploying the application to Heroku was also a valuable learning experience. I learned how to create a new Heroku app and deploy the code to the Heroku server. I also gained experience troubleshooting issues that arose during the deployment process.
 
  ## Built With
 
@@ -36,15 +38,12 @@
 
 The application has two main pages:
 
-The homepage (/) displays a welcome message and a link to the notes page.
-The notes page (/notes) displays a list of all notes and allows users to create, read, update, and delete notes.
-To create a new note, click the "New Note" button and enter a title and text for the note. Click the "Save" button to save the note.
+The homepage displays a welcome message and a link to the notes page.
+The notes page displays a list of all notes and allows users to create, read, and delete notes. To create a new note, click the add button (+) button and enter a title and text for the note. Click the "Save" button to save the note.
 
 To view an existing note, click on the title of the note in the list of notes.
 
-To update an existing note, click on the title of the note to view it. Update the title and/or text of the note, then click the "Save" button to save the changes.
-
-To delete an existing note, click on the title of the note to view it, then click the "Delete" button. 
+To delete an existing note, click the trash icon to the right of the saved note. 
 
   ## Screenshots  
 
